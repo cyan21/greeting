@@ -1,0 +1,2 @@
+# greeting
+Go module
