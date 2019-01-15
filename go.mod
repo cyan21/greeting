@@ -1,1 +1,1 @@
-module github.com/cyan21/greeting
+module github.com/cyan21/greeting/v2

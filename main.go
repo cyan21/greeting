@@ -1,13 +1,13 @@
 package greeting
 
-func Fr() string {
-	return "Bonjour !"
+func Fr(name string) string {
+	return "Bonjour " + name
 }
 
-func En() string {
-	return "Hi !"
+func En(name string) string {
+	return "Hi " + name
 }
 
-func Jp() string {
-	return "Konnichiwa !"
+func Jp(name string) string {
+	return "Konnichiwa " + name
 }
